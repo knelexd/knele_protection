@@ -19,3 +19,5 @@ Download the .amxx file (compiled plugin) from this repository
 4. Upload files easy_cfg.inc
    - cstrike/addons/amxmodx/scripting/include
    - easy_cfg.inc
+
+## EXTRA: you also get the knele_protection.cfg file where you can change the config.
