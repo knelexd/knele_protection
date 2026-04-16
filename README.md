@@ -16,4 +16,6 @@ Download the .amxx file (compiled plugin) from this repository
 3. Enable the plugin
    - /cstrike/addons/amxmodx/configs/plugins.ini
    - Add this line at the bottom:  knele_protection.amxx
-     
+4. Upload files easy_cfg.inc
+   - cstrike/addons/amxmodx/scripting/include
+   - easy_cfg.inc
