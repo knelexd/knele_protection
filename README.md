@@ -5,9 +5,8 @@ Knele Protection is a security-focused plugin designed to protect your server fr
 It helps ensure a fair and secure environment by verifying player identity and blocking suspicious activity before it can affect your server.
 
 
+### NOTE: Write this plugin completely at the beginning of the list in plugins.ini !!!
 ⚙️ Installation (CS 1.6)
-
-Follow these steps to install Knele Protection on your CS 1.6 server:
 
 1. Download the plugin
 Download the .amxx file (compiled plugin) from this repository
@@ -20,4 +19,4 @@ Download the .amxx file (compiled plugin) from this repository
    - cstrike/addons/amxmodx/scripting/include
    - easy_cfg.inc
 
-## EXTRA: you also get the knele_protection.cfg file where you can change the config.
+EXTRA: you also get the knele_protection.cfg file where you can change the config.
