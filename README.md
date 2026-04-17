@@ -1,22 +1,36 @@
-# knele_protection
+# knele-protection (CS 1.6)
 
-Knele Protection is a security-focused plugin designed to protect your server from common abuse methods such as SteamID changing (+ minimalistic anti-vpn)
+Advanced protection plugin for Anti Steam ID Change..  
 
-It helps ensure a fair and secure environment by verifying player identity and blocking suspicious activity before it can affect your server.
+---
 
+## 📦 Dependencies
 
-### NOTE: Write this plugin completely at the beginning of the list in plugins.ini !!!
-⚙️ Installation (CS 1.6)
+These need to be installed on your server:
 
-1. Download the plugin
-Download the .amxx file (compiled plugin) from this repository
-2. Upload files
-    - /cstrike/addons/amxmodx/plugins/
-3. Enable the plugin
-   - /cstrike/addons/amxmodx/configs/plugins.ini
-   - Add this line at the bottom:  knele_protection.amxx
-4. Upload files easy_cfg.inc
-   - cstrike/addons/amxmodx/scripting/include
-   - easy_cfg.inc
+| Plugin        | Why                    |
+|---------------|------------------------|
+| AMX Mod X 1.10| Main plugin system     |
+| ReHLDS        | Better performance     |
+| ReGameDLL     | Extended features      |
 
-EXTRA: you also get the knele_protection.cfg file where you can change the config.
+---
+
+## ⭐ Optional (Recommended)
+
+| Include        | Why                   |
+|----------------|------------------------|
+| easy_cfg       | Create a cfg file on config |
+
+---
+
+## ⚙️ Installation
+
+1. Download the plugin (`.amxx` file)
+2. Upload it to: ```cstrike/addons/amxmodx/plugins```
+   ## Add the knele_protection to the top of the leaf in plugins.ni
+
+4. Download the easy.cfg (`.inc` file)
+5. Upload it to: ```cstrike/addons/amxmodx/scripting/include```
+
+Thank you for using my Anti-SteamID changer! 
