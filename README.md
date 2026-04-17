@@ -13,6 +13,7 @@ These need to be installed on your server:
 | AMX Mod X 1.10| Main plugin system     |
 | ReHLDS        | Better performance     |
 | ReGameDLL     | Extended features      |
+| ReAPI         | Advanced API functions |
 
 ---
 
