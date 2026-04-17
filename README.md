@@ -1,6 +1,6 @@
 # knele-protection (CS 1.6)
 
-Advanced protection plugin for Anti Steam ID Change..  
+Advanced protection plugin for Anti Steam ID Changer..  
 
 ---
 
