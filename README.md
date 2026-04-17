@@ -16,7 +16,7 @@ These need to be installed on your server:
 
 ---
 
-## ⭐ Optional (Recommended)
+## ⭐ Appendix (Required)
 
 | Include        | Why                   |
 |----------------|------------------------|
